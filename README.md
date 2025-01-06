@@ -16,7 +16,6 @@ Some Features:
 -   📷 Image Uploads using Cloudinary
 -   🔔 Send Notifications
 -   🌐 Deployment
--   ⏳ And much more!
 
 ### Setup .env file
 
